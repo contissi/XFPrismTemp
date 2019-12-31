@@ -1,0 +1,12 @@
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\bin\Debug\netstandard2.0\PrismRepro.deps.json
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\bin\Debug\netstandard2.0\PrismRepro.dll
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\bin\Debug\netstandard2.0\PrismRepro.pdb
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.csprojAssemblyReference.cache
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.AssemblyInfoInputs.cache
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.AssemblyInfo.cs
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.dll
+C:\Users\ryan\source\repos\PrismRepro\PrismRepro\PrismRepro\obj\Debug\netstandard2.0\PrismRepro.pdb
